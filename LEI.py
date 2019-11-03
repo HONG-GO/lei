@@ -7,3 +7,6 @@ for i in range(6):
         print("* ", end="")
         # 打印完一行后换行
     print()
+    ''''
+    试着更改一些内容
+    '''
